@@ -11,7 +11,7 @@ Game is created via JavaFX.
 * Big rectangle contains 14*14=196 rectangles;
 * Top rectangle on the right side of application window shows you number of completed steps;
 * Bottom rectangle on the right side of applicaion window shows you your game session progress, each small rectangle of a big one is 4% of all territory;
-* Small on the right side of game frame shows what button to press to paint your territory with a certain color;
+* Small rectangles on the right side of game frame shows what button to press to paint your territory with a certain color;
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/108462106/181553372-feb95dad-15cd-40d5-9a77-941aef951d18.png)
